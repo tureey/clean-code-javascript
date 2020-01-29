@@ -64,7 +64,7 @@ const yyyymmdstr = moment().format("YYYY/MM/DD");
 **👨‍🏫 Bien:**
 
 ```javascript
-const fechaACtual = moment().format("YYYY/MM/DD");
+const fechaActual = moment().format("YYYY/MM/DD");
 ```
 
 **[⬆ Volver arriba](#contenido)**
